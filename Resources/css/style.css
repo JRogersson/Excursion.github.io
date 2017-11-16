@@ -1,0 +1,53 @@
+* {
+  font-family: verdana;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  font-weight: normal;
+}
+
+.link {
+  color: white;
+  text-align: center;
+  font-size: 16px;
+}
+
+
+p {
+  font-family: Verdana;
+  text-align: center;
+  color: Gray;
+  font-size: 21px;
+}
+
+.video {
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+  font-family: Verdana;
+  text-align: center;
+}
+
+h3 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+  text-align: center;
+  font-weight: normal;
+}
+
+.image {
+  text-align: center;
+}
+
+.icon {
+  text-align: center;
+}
